@@ -9,9 +9,11 @@ In creating the chatbot, they realized that understanding happy moments is a cha
 
 ## Tools Used
 * Pandas and Numpy
+* Sklearn
 * Seaborn and Matplotlib
 * Wordcloud
 * Nltk
+* Scattertext
 
 ## Data Cleaning and Preprocessing
 * Dropped null values
